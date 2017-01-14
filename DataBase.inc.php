@@ -1,0 +1,9 @@
+<?php 
+
+//Object
+class DataBase{
+
+
+
+
+}
